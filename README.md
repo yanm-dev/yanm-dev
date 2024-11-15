@@ -12,7 +12,7 @@ I'm <strong>Yanm</strong>, Senior Software Engineer Passionate about coding and 
   <img src="https://visitcount.itsvg.in/api?id=yanm-dev&label=Profile%20Views&color=3&icon=0&pretty=true" />
 </a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=chris-c-dev&theme=dark&show_icons=true" 
+<img src="https://github-readme-stats.vercel.app/api?username=yanm-dev&theme=dark&show_icons=true" 
      alt="chris GitHub stats">
 
 <strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Language</strong><br>
